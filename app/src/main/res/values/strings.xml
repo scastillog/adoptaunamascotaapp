@@ -2,8 +2,8 @@
     <string name="app_name">Adopta una Mascota</string>
     <string name="et_email">Email</string>
     <string name="et_password">Contraseña</string>
-    <string name="facebook_app_id">453604271733029</string>
-    <string name="fb_login_protocol_scheme">fb453604271733029</string>
+    <string name="facebook_app_id">Your Api Facebook Here</string>
+    <string name="fb_login_protocol_scheme">Your Api Facebook Here</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
