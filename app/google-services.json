@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "41477139059",
+    "firebase_url": "https://adoptamascota-ed59d.firebaseio.com",
+    "project_id": "adoptamascota-ed59d",
+    "storage_bucket": "adoptamascota-ed59d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41477139059:android:150f21d2b95759b4",
+        "android_client_info": {
+          "package_name": "com.enriquecastillo.adopta_mascotas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41477139059-c4prfss2d5ihm5iv11jo0abck1575vi8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enriquecastillo.adopta_mascotas",
+            "certificate_hash": "88e1c870f716597f938bbd693cff10999ac43d26"
+          }
+        },
+        {
+          "client_id": "41477139059-04beeeas9q4dre2ja7j0tacjobj6f5pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIuTY_6GcGCwLFWOgfmQx5dA-sXQNE5zQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41477139059-04beeeas9q4dre2ja7j0tacjobj6f5pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

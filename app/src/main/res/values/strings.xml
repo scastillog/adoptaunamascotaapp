@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Adopta una Mascota</string>
+    <string name="et_email">Email</string>
+    <string name="et_password">Contraseña</string>
+    <string name="facebook_app_id">453604271733029</string>
+    <string name="fb_login_protocol_scheme">fb453604271733029</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="et_name">Nombre y Apellidos</string>
+    <string name="et_repeatpassword">Repita la contraseña</string>
+    <string name="btn_continue_email">Continuar con Correo</string>
+    <string name="btn_signIn">Iniciar Sesion</string>
+    <string name="welcome">Te damos la bienvenida a Adopta una Mascota</string>
+    <string name="btn_register_email">Registrar Cuenta</string>
+    <string name="btn_menu_logout">Cerrar Sesion</string>
+    <string name="Error_password_incorrect">The password is invalid or the user does not have a password.</string>
+    <string name="Error_email_dont_exist">There is no user record corresponding to this identifier. The user may have been deleted.</string>
+    <string name="et_numero">Numero de contacto</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="et_name_pet">Nombre</string>
+    <string name="et_description">Descripcion</string>
+    <string name="gender">Genero</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="tip_of_pet">Escoge</string>
+    <string name="dog">Perro</string>
+    <string name="cat">Gato</string>
+    <string name="others">Otros</string>
+    <string name="add_photo">Agrega una Foto</string>
+    <string name="male">Masculino</string>
+    <string name="female">Femenino</string>
+
+</resources>

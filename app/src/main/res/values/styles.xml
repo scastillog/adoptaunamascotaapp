@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="FacebookLoginButton">
+        <item name="android:text">CONTINUAR CON FACEBOOK</item>
+        <item name="android:textSize">@dimen/smallTxtSize</item>
+        <item name="android:background">@drawable/btn_login_facebook</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+    </style>
+
+    <style name="GoogleLoginButton">
+        <item name="android:text">Continuar con Google</item>
+        <item name="android:textSize">@dimen/smallTxtSize</item>
+        <item name="android:background">@drawable/btn_login_google</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+    </style>
+
+    <dimen name="smallTxtSize">16sp</dimen>
+</resources>
